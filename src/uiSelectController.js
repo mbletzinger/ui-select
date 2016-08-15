@@ -605,10 +605,10 @@ uis.controller('uiSelectCtrl',
       e.stopPropagation();
     }
 
-    // if(~[KEY.ESC,KEY.TAB].indexOf(key)){
-    //   //TODO: SEGURO?
-    //   ctrl.close();
-    // }
+    if(~[KEY.ESC,KEY.TAB].indexOf(key)){
+      //TODO: SEGURO?
+      ctrl.close();
+    }
 
     $scope.$apply(function() {
 

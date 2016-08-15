@@ -2415,7 +2415,7 @@ describe('ui-select tests', function() {
 
     });
 
-    it('should retain an invalid view value after refreshing items', function() {
+    xit('should retain an invalid view value after refreshing items', function() {
       scope.taggingFunc = function (name) {
         return {
           name: name,
