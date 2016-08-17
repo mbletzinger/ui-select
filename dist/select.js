@@ -1,7 +1,7 @@
 /*!
  * ui-select
  * http://github.com/angular-ui/ui-select
- * Version: 0.19.1_rolodex_fix - 2016-08-15T15:41:19.286Z
+ * Version: 0.19.1 - 2016-08-17T16:06:37.529Z
  * License: MIT
  */
 
